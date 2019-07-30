@@ -1,7 +1,7 @@
 # HIST1140--History-and-Culture-of-Spain
 
 Welcome to HIST-1140 History and Culture of Spain.  
-Once you are ready to contribute begin by navigating to our classroom [Wiki](https://github.com/drherr/HIST1140-History and Culture of Spain
+Once you are ready to contribute begin by navigating to our classroom [Wiki]HIST1140--History-and-Culture-of-Spain 
 ## Instructions for Getting Started in GitHub  
 1. Go to github.com to set up your free account. You can use whatever GitHub handle you want (that is @blahblah) but you must use your Pitt email account for your email. When you go to sign up it is just like signing up for Instagram or Twitter in the sense that you do not put the @ symbol before your username when you are creating it. The @ is a feature only to be used when mentioning or pinging someone on the platform.    
 2. Under "Choose a Plan" - select "Free"  
