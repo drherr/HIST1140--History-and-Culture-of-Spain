@@ -21,4 +21,5 @@ As an academic and professional in an increasingly digital world it is important
 ### Student Handles 
 *Please add your name, and GitHub handle below*  
 _**Example:** Dr. Pilar Herr, @drherr_  
+Noah McKruit @njm87
 Rebecca Parker, @RJP43 - **technical assistant** 
